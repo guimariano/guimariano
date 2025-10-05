@@ -1,3 +1,6 @@
+![1749727521886 (1)](https://github.com/user-attachments/assets/48682ef5-b7ca-4c01-b6bc-cf0540c8ee3f)
+
+
 # 💫 About Me:
 👋 Hi, I’m Guilherme Mariano, a Senior Software Engineer from Brazil with 7+ years of experience.<br><br>- 💻 I build scalable platforms and web apps used by millions of users.<br>- 🏢 Currently at Frete.com, optimizing high-traffic systems and improving reliability.<br>- ⚙️ I love working with PHP, NestJS, ReactJS, MySQL, and Docker.<br>- 🚀 Passionate about clean code, problem-solving, and impactful software.<br>- 🌍 Always learning, collaborating, and open to remote opportunities worldwide.<br>- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/guilhermemarianodev/)
 
